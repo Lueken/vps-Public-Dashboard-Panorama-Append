@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+ENV/
+
+# Virtual Environment
+.env
+.venv
+env/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Input/Output Data
+*.csv
+output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
